@@ -12,4 +12,4 @@ This is a repository for a 3D Animated Website Portfolio with Prismic, React, Ta
 - 3D animated graphics with Three.JS
 
 # Link:
-https://3d-animated-website-portfolio.vercel.app/
+https://emmemercado.vercel.app/
