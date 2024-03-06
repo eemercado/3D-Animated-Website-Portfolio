@@ -12,4 +12,4 @@ This is a repository for a 3D Animated Website Portfolio with Prismic, React, Ta
 - 3D animated graphics with Three.JS
 
 # Link:
-https://emmeflix-netflix-clone-iedghj5at-eemercados-projects.vercel.app/auth
+https://3d-animated-website-portfolio.vercel.app/
