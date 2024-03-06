@@ -1,0 +1,36 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "market",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"tech_name",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "former",
+							"type": "Text"
+						}
+					],
+					[
+						"tech_colour",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "#1c9497",
+							"type": "Color"
+						}
+					]
+				]
+			}
+		]
+	}
+]
