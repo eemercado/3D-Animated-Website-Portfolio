@@ -1,6 +1,6 @@
 ## 3D Animated Website Portfolio 
 
-![Alt Text](frontGif/gif)
+![Example Image](frontGif.gif)
 
 This is a repository for a 3D Animated Website Portfolio with Prismic, React, TailwindCSS, NextJS THREEJS & SliceMachine.
 
